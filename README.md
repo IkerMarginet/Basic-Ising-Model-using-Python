@@ -1,1 +1,3 @@
 # Basic-Ising-Model-using-Python
+
+A numerical simulation tool implemented in Python models the two-dimensional Ising system on a 50x50 lattice at temperatures near the critical point. It uses the Metropolis Monte Carlo algorithm to evolve spin configurations under a small external magnetic field. The simulation compares random initial states with those containing a circular domain of spins reversed relative to the background. Key outputs include the time evolution of the average magnetization and the effective radius of the circular domain. Dynamic visualizations provide insight into how spin patterns and domain sizes change during the simulation. Future work aims to enhance parameter management, optimize graphical displays, and extend the model’s capabilities.
